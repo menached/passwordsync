@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+  <id>passwordsync</id>
+  <name>Password Sync</name>
+  <description>Syncs user password changes with the Linux server.</description>
+  <version>1.0.0</version>
+  <dependencies>
+    <nextcloud min-version="21" max-version="23"/>
+  </dependencies>
+</info>
+
